@@ -32,6 +32,7 @@ En este momento, es solo una copia del [repositorio original](https://github.com
 En tu clon local del repositorio, abre (`README.md`) y modifica la siguiente línea cambiando "tu nombre completo"
 
 > Soy Marco Antonio Bravo Ocampo y edité este archivo.
+> Soy Marco y edité este archivo desde GitHub web.
 
 ## 4. Agregar y Confirmar Cambios (Commit)
 
